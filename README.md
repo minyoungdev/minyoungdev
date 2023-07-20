@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&text=Welcome%20to%20MinYoung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20MinYoung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=150)
 
 ### 학습중인언어
 
@@ -18,7 +18,10 @@ Back end
 [![MinYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyoungdev)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyoungdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=150&section=footer)
+
 **minyoungdev/minyoungdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
