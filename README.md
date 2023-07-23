@@ -14,8 +14,13 @@ Back end
 <br/>
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=black"/>
 
-[![MinYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyoungdev)](https://github.com/minyoungdev/github-readme-stats))
-[![MinYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyoungdev)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyoungdev&exclude_repo=minyoungdev.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=minyoungdev&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyoungdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
