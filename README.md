@@ -22,7 +22,5 @@ Back end
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=150&section=footer)
 
-**minyoungdev/minyoungdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
