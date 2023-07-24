@@ -15,9 +15,7 @@ Back end
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=black"/>
 
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyoungdev&exclude_repo=minyoungdev.github.io&layout=compact&theme=tokyonight" />
-</a>
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=minyoungdev&theme=tokyonight&show_icons=true" width="42%" />
 </a>
